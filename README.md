@@ -12,3 +12,5 @@
 ![изображение](https://github.com/tsaritsennko/lab2_OPD/assets/125185084/e5f14206-be5e-44b5-8875-4ef326667b5c)
 ![изображение](https://github.com/tsaritsennko/lab2_OPD/assets/125185084/52fae6c1-5fa2-48f3-91cd-05a1358511f9)
 Работа бота с другого устройства
+![photo_2023-05-21_18-45-21](https://github.com/tsaritsennko/lab2_OPD/assets/125185084/9b314128-58f5-48ea-912c-541996591cbd)
+![изображение](https://github.com/tsaritsennko/lab2_OPD/assets/125185084/0b141701-889d-48ef-a255-ec93bf08cf0b)
