@@ -44,7 +44,7 @@ async def process_race_type(message: types.Message):
     wb.save(filename='registration.xlsx')
 
     
-    reply_markup = types.ReplyKeyboardRemove()# Удаляю кнопки после регистрации,чтобы они не оставались после регистрации
+    reply_markup = types.ReplyKeyboardRemove()# Удаляю кнопки после регистрации
     await bot.send_message(chat_id=message.chat.id, text="Вы успешно зарегистрировались!",
                            reply_markup=reply_markup)
 
